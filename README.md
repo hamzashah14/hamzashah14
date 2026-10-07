@@ -115,6 +115,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**E-Commerce-Microservices**](https://github.com/hamzashah14/E-Commerce-Microservices) | Seven-service e-commerce sample app used as a DevOps workload: Docker Compose locally, GitHub Actions CI pushing images to Amazon ECR, Argo CD GitOps with Kustomize on EKS, and Prometheus + Grafana observability. | `Docker` `GitHub Actions` `Argo CD` `Kubernetes` `Prometheus` `Grafana` |
+| [**E-Commerce-Infrastructure**](https://github.com/hamzashah14/E-Commerce-Infrastructure) | Terraform modules for the AWS platform behind it: VPC, EKS 1.34, ECR, plus Argo CD and kube-prometheus-stack installed with Helm. | `Terraform` `AWS EKS` `ECR` `Helm` `Argo CD` |
 | [**AIOps-Agent**](https://github.com/hamzashah14/AIOps-Agent) | AI-powered SRE assistant that diagnoses production incidents by querying CloudWatch Logs, Prometheus metrics and EKS cluster health, then provides root cause analysis, evidence and fix recommendations. | `Python` `AWS EKS` `CloudWatch` `Prometheus` `LLM` |
 | [**PSX-CloudETL**](https://github.com/hamzashah14/PSX-CloudETL) | Python ETL pipeline for the public PSX data API, built with a microservices architecture and deployable on the cloud, Kubernetes or Docker Compose. A full hands-on project for DevOps learners. | `Python` `Docker` `Kubernetes` `Microservices` |
 | [**Packet-inspection**](https://github.com/hamzashah14/Packet-inspection) | High-performance Deep Packet Inspection (DPI) engine written in C++17. | `C++17` `Networking` |
