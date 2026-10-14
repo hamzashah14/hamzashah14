@@ -11,11 +11,11 @@
 
 ## `$ ls projects/`
 
+- [`Tracaus`](https://github.com/hamzashah14/Tracaus): AI incident investigator for AWS EC2/ECS — reads CloudWatch alarms, logs and metrics, emails root-cause reports
 - [`E-Commerce-Microservices`](https://github.com/hamzashah14/E-Commerce-Microservices): 7-service sample app with Docker Compose, GitHub Actions CI, Argo CD GitOps and Prometheus + Grafana on EKS
 - [`E-Commerce-Infrastructure`](https://github.com/hamzashah14/E-Commerce-Infrastructure): Terraform for AWS: VPC, EKS, ECR, Argo CD and kube-prometheus-stack
 - [`PSX-CloudETL`](https://github.com/hamzashah14/PSX-CloudETL): Python ETL pipeline for the public PSX data API, deployable on the cloud, Kubernetes or Docker Compose
 - [`Packet-Inspection-Engine`](https://github.com/hamzashah14/Packet-inspection): High-performance Deep Packet Inspection (DPI) engine in C++17
-- [`Tracaus`](https://github.com/hamzashah14/Tracaus): AI incident investigator for AWS EC2/ECS — reads CloudWatch alarms, logs and metrics, emails root-cause reports
 
 ## `$ ./contact.sh`
 
