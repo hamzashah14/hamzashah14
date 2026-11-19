@@ -9,6 +9,12 @@
 - DevOps in the Trenches: Grassroots adoption, Real-world friction, Operational survival
 - Based in Pakistan, UTC+05:00
 
+## `$ Production Philosophy (In the Trenches)`
+- **Boring is good:** Novel tech belongs in sandboxes; proven, observable tools belong in prod.
+- **Automate the toil:** If I have to SSH into a box twice to fix the same thing, it becomes code.
+- **Observability > Monitoring:** Knowing *why* a system is failing matters more than knowing *that* it's down.
+- **Blameless post-mortems:** Outages are system failures, not human failures.
+
 ## `$ ls projects/`
 
 - [`Tracaus`](https://github.com/hamzashah14/Tracaus): AI incident investigator for AWS EC2/ECS — reads CloudWatch alarms, logs and metrics, emails root-cause reports
