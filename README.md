@@ -6,7 +6,7 @@
 
 - Cloud infrastructure on **AWS** and **Azure**, defined as code with **Terraform** and **Ansible**
 - Containers on **Docker** and **Kubernetes**, delivered through **CI/CD** and **GitOps**
-- Building AIOps / SRE automation with LLMs
+- DevOps in the Trenches: Grassroots adoption, Real-world friction, Operational survival
 - Based in Pakistan, UTC+05:00
 
 ## `$ ls projects/`
