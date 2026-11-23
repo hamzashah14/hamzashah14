@@ -6,7 +6,7 @@
 
 - Cloud infrastructure on **AWS** and **Azure**, defined as code with **Terraform** and **Ansible**
 - Containers on **Docker** and **Kubernetes**, delivered through **CI/CD** and **GitOps**
-- DevOps in the Trenches: Grassroots adoption, Real-world friction, Operational survival
+- DevOps cores: Grassroots adoption, Real-world friction, Operational survival, Observibility
 - Based in Pakistan, UTC+05:00
 
 ## `$ Production Philosophy (In the Trenches)`
